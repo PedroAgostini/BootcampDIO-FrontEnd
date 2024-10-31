@@ -1,5 +1,5 @@
 <h1 align="center"> Bootcamp Front-End </h1>
-<p align="center"> <strong>Realizado na plataforma <i>DIO</i> em colaboração com a empresa <i>Ri Happy</i></strong></p>
+<p align="center"> <strong>Bootcamp realizado na plataforma <i>DIO</i> em colaboração com a empresa <i>Ri Happy</i></strong></p>
 <BR>
 <p>Este Bootcamp tem como objetivo dominar a trinca fundamental do bom desenvolvedor Front-End com <strong>HTML, CSS e JAVASCRIPT</strong>, com uma base estruturada de conteúdos e projetos práticos.</p>
 
